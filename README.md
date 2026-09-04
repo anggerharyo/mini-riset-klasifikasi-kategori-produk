@@ -16,13 +16,13 @@ The project covers data preprocessing, exploratory data analysis, feature select
 
 The workflow consists of the following steps:
 ```
-Data loading and inspection
-Removal of the ID column
-Missing value handling
-Duplicate data checking
-Exploratory data analysis and visualization
-Feature and target selection
-Train-test splitting
-Random Forest model training
-Model evaluation using accuracy, confusion matrix, and classification report
+1. Data loading and inspection
+2. Removal of the ID column
+3. Missing value handling
+4. Duplicate data checking
+5. Exploratory data analysis and visualization
+6. Feature and target selection
+7. Train-test splitting
+8. Random Forest model training
+9. Model evaluation using accuracy, confusion matrix, and classification report
 ```
