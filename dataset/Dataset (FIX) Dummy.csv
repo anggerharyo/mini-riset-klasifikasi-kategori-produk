@@ -1,0 +1,151 @@
+﻿ID,produk,harga,kategori,rating,persediaan,diskon (%),lokasi pengiriman,jumlah pembelian
+1,baju polos navy,50000,pakaian,4.5,15,10,jakarta,20
+2,celana jeans Lea,80000,pakaian,4.2,10,5,surabaya,15
+3,sepatu sneakers ngreen,120000,pakaian,4.8,70,0,bandung,10
+4,laptop hp,8000000,elektronik,4.7,3,15,jakarta,5
+5,mouse wireless,30000,elektronik,4.0,20,10,surabaya,25
+6,tas ransel,70000,aksesoris dan kecantikan,4.6,8,3,bandung,12
+7,earphone,20000,aksesoris dan kecantikan,4.3,12,0,jakarta,18
+8,powerbank,40000,aksesoris dan kecantikan,4.9,6,10,surabaya,8
+9,serum wajah,25000,aksesoris dan kecantikan,4.4,25,4,bandung,30
+10,shampoo sunsilk,15000,aksesoris dan kecantikan,3.9,32,0,jakarta,22
+11,cream malam wardah,35000,aksesoris dan kecantikan,4.9,22,5,jakarta,28
+12,sandal jepit,15000,pakaian,3.8,54,0,jakarta,23
+13,kemeja,70000,pakaian,4.6,9,0,bandung,13
+14,speaker mini,50000,elektronik,4.3,14,10,surabaya,17
+15,masker kain,10000,aksesoris dan kecantikan,4.7,28,5,jakarta,31
+16,kacamata hitam,40000,aksesoris dan kecantikan,4.0,8,0,bandung,7
+17,printer,600000,elektronik,4.9,4,15,jakarta,9
+18,celana pendek,60000,pakaian,4.5,11,10,surabaya,16
+19,lip balm,20000,aksesoris dan kecantikan,4.4,22,6,bandung,27
+20,powerbank solar,120000,elektronik,4.8,6,5,jakarta,10
+21,dompet,55000,aksesoris dan kecantikan,4.2,13,0,jakarta,18
+22,meja lipat,350000,elektronik,4.6,7,10,surabaya,8
+23,dress,100000,pakaian,4.3,30,5,bandung,11
+24,flashdisk,25000,elektronik,4.5,16,0,jakarta,21
+25,masker medis,8000,aksesoris dan kecantikan,4.7,35,0,surabaya,40
+26,anting,20000,aksesoris dan kecantikan,4.1,18,5,bandung,9
+27,keyboard,150000,elektronik,4.8,5,0,jakarta,6
+28,celana panjang,90000,pakaian,4.4,10,10,surabaya,15
+29,serum bulu mata,30000,aksesoris dan kecantikan,4.9,18,0,jakarta,23
+30,speaker portable,200000,elektronik,4.7,3,0,bandung,4
+31,handuk mandi,35000,aksesoris dan kecantikan,4.5,14,0,bandung,19
+#N/A
+#N/A
+34,blush on,50000,aksesoris dan kecantikan,4.2,20,10,jakarta,25
+#N/A
+36,monitor lcd,1200000,elektronik,4.6,2,15,jakarta,5
+#N/A
+38,maskara,15000,aksesoris dan kecantikan,4.9,30,7,bandung,35
+39,speaker mini portable,80000,elektronik,4.5,8,5,jakarta,11
+#N/A
+41,baju reg matte,90000,pakaian,4.7,11,10,bandung,14
+42,pensil alis gucci,500000,aksesoris dan kecantikan,4.9,25,12,jakarta,30
+43,mouse bluetooth,70000,elektronik,4.6,6,5,surabaya,9
+44,jam alarm noumi,40000,aksesoris dan kecantikan,4.9,15,8,jakarta,18
+#N/A
+46,kacamata reg,70000,aksesoris dan kecantikan,4.6,8,5,jakarta,12
+#N/A
+48,baju tidur,45000,pakaian,4.2,11,10,bandung,13
+#N/A
+50,mouse gaming,120000,elektronik,4.9,6,5,surabaya,8
+#N/A
+52,baju reg you,120000,pakaian,4.7,11,10,bandung,19
+#N/A
+54,mouse bluetooth jems,100000,elektronik,4.6,6,5,surabaya,9
+#N/A
+#N/A
+57,kacamata reg speedo,70000,aksesoris dan kecantikan,4.6,8,5,jakarta,12
+58,printer wireless hp,800000,elektronik,4.8,12,0,surabaya,3
+59,baju tidur motif bunga raflesia,45000,pakaian,4.2,11,10,bandung,13
+#N/A
+#N/A
+62,speaker bluetooth,300000,elektronik,4.6,12,5,surabaya,20
+#N/A
+64,t shirt pastelblue,80000,pakaian,4.7,9,10,surabaya,11
+#N/A
+#N/A
+67,earphone sport,100000,elektronik,4.5,15,5,surabaya,19
+#N/A
+69,blouse,90000,pakaian,4.9,7,10,bandung,8
+#N/A
+#N/A
+#N/A
+73,powerbank slim,120000,elektronik,4.7,6,5,bandung,9
+74,serum hyaluronic acid,40000,aksesoris dan kecantikan,4.6,15,10,jakarta,12
+#N/A
+76,topi trucker,50000,aksesoris dan kecantikan,4.8,12,5,bandung,14
+#N/A
+#N/A
+79,speaker mini portable,150000,elektronik,4.5,7,5,bandung,18
+80,kacamata anti radiasi,100000,aksesoris dan kecantikan,4.7,10,10,jakarta,20
+#N/A
+82,lip gloss,25000,aksesoris dan kecantikan,4.7,14,5,bandung,16
+#N/A
+#N/A
+85,celana training,150000,pakaian,4.5,8,10,bandung,10
+#N/A
+#N/A
+88,topi fedora,70000,aksesoris dan kecantikan,4.2,13,5,bandung,20
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+94,keyboard mechanical,400000,elektronik,4.6,6,5,bandung,7
+95,celana panjang jogger,180000,pakaian,4.3,8,10,jakarta,11
+#N/A
+#N/A
+98,dompet kartu,60000,aksesoris dan kecantikan,4.2,11,5,surabaya,22
+#N/A
+#N/A
+101,speaker mini bluetooth,120000,elektronik,4.5,7,5,bandung,20
+#N/A
+#N/A
+104,serum brightening,75000,aksesoris dan kecantikan,4.3,10,10,bandung,15
+#N/A
+#N/A
+107,blouse batik,100000,pakaian,4.8,13,5,bandung,18
+#N/A
+#N/A
+110,kacamata retro,80000,aksesoris dan kecantikan,4.5,11,10,bandung,20
+#N/A
+#N/A
+113,tas clutch,50000,aksesoris dan kecantikan,4.3,12,5,bandung,22
+#N/A
+#N/A
+#N/A
+117,earphone gaming,180000,elektronik,4.7,8,5,bandung,11
+#N/A
+#N/A
+120,serum anti aging,85000,aksesoris dan kecantikan,4.6,11,10,bandung,23
+121,mouse bluetooth rgb ,300000,elektronik,4.9,30,0,jakarta,8
+#N/A
+123,gaun pengantin,1500000,pakaian,4.7,6,5,bandung,7
+#N/A
+#N/A
+126,topi bowler,70000,aksesoris dan kecantikan,4.8,13,5,bandung,15
+#N/A
+#N/A
+129,speaker portable bluetooth,250000,elektronik,4.7,8,5,bandung,11
+#N/A
+#N/A
+#N/A
+133,tas serut babyblue,40000,aksesoris dan kecantikan,4.3,10,5,bandung,22
+134,mouse gaming wireless neon,350000,elektronik,4.8,59,0,surabaya,10
+#N/A
+#N/A
+137,headphone bluetooth,200000,elektronik,4.7,8,5,bandung,11
+#N/A
+#N/A
+140,serum brightening,80000,aksesoris dan kecantikan,4.6,11,10,bandung,23
+#N/A
+#N/A
+143,gaun pesta,1200000,pakaian,4.7,6,5,bandung,7
+#N/A
+#N/A
+146,topi fedora,60000,aksesoris dan kecantikan,4.8,13,5,bandung,15
+#N/A
+148,mascara waterproof,55000,aksesoris dan kecantikan,4.9,12,10,surabaya,20
+149,speaker portable bluetooth,270000,elektronik,4.7,8,5,bandung,11
+150,kacamata retro,95000,aksesoris dan kecantikan,4.5,10,0,jakarta,14
